@@ -2,10 +2,10 @@
 
 | Title      | Submitter                           | Link      | Via          | Note                                                    |
 | :--------- | :---------------------------------- | :-------- | ------------ | ------------------------------------------------------- |
-| voice log  | Andrew Litteken                     | [Link][1] | [Twitter][2] | foo                                                     |
-| Bike Log   | Metal Matt                          | [Link][3] | [Twitter][4] | foo                                                     |
-| Real Quick | Metal Matt<br />(tweaked by Merlin) | [Link][5] | foo          | Tweaked to accept dictated text; renamed file path name |
-[Voice Log Candidates]
+| voice log  | Andrew Litteken                     | [Link][1] | [Twitter][2] | na                                                     |
+| Bike Log   | Metal Matt                          | [Link][3] | [Twitter][4] | na                                                      |
+| Real Quick | Metal Matt<br />(tweaked by Merlin) | [Link][5] | na           | Tweaked to accept dictated text; renamed file path name |
+
 
 ----
 
