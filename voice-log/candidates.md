@@ -1,4 +1,4 @@
-# Candidates (under construction)
+# Voice Log Candidates
 
 | Title      | Submitter                           | Link      | Via          | Note                                                    |
 | :--------- | :---------------------------------- | :-------- | ------------ | ------------------------------------------------------- |
