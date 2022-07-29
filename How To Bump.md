@@ -6,19 +6,21 @@ A simple way to accommodate delays while encouraging good use of time that might
 ## The Problem
 Everybody is late sometimes. 
 
-Things happen, tires get flats, babies barf, and internet connectivity goes out. So, sometimes a scheduled event gets a delayed or even needs to be fully rescheduled. It happens. 
+Things happen, tires get flats, babies barf, and internet connectivity goes out. So, sometimes a scheduled event gets a delayed start time or even needs to be fully rescheduled. It happens. 
 
 Unfortunately, a Late Person often *can't* provide an exact time when they know conclusively that the cause of their tardiness will be resolved. Or, candidly, maybe they're just not very good at estimating how long things take. Most of us are terrible at this.
 
 This tends to present through familiar updates like "I just need a minute" which might become "I just need 10 minutes" or the perennial "I swear I'm almost ready!" etc.
 
-In any case, their colleague may find themselves stuck in an awkward and frustrating liminal state: "Well, what should I *do* now?"
+In any case, their affected colleague may find themselves stuck in an awkward and frustrating liminal state: "Well, what should I *do* now?"
 
-In particular, if the estimated time of resumption becomes a rolling "Just five more minutes please!" they will be understandably reluctant to formally switch out of "Waiting Mode" in order to  dynamically redeploy their time to something more useful than…just waiting. Why start working on something substantial if you know you may be interrupted any second?
+In particular, if the estimated time of resumption becomes a rolling "Just five more minutes please!" they may be understandably reluctant to formally switch out of "Waiting Mode" in order to  dynamically redeploy their time to something more useful than…just waiting. Why start working on something substantial if you know you may be interrupted at any second?
 
 
 ## The Basic Idea
-When a participant in a remote call or meeting is going to be late for the scheduled start time, one or more of the affected participants can ask for a "bump."
+When a participant in a remote call or meeting is going to be late for the scheduled start time, one or more of the affected participants can ask for a "bump" plus an amount of time _after_ the Late Person is ready to talk.
+
+So, for example, "Take your time, but, please give me a Bump Plus Fifteen" means what it sounds like: 
 
 ## How It Works
 
